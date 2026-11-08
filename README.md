@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b3d,50:6b2d5e,100:c2185b&height=230&section=header&text=Oumame%20Ishagh&fontSize=72&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Networks%20%26%20Security%20%7C%20AI-Assisted%20Builder&descAlignY=60&descSize=17&descColor=f8bbd0" alt="Oumame Ishagh"/>
+<h1>Oumame Ishagh Cheikh Ahmed</h1>
+
+<h3>Full-Stack Developer | Networks &amp; Security | AI-Assisted Builder</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E91E8C&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+%7C+JavaScript+%7C+Node.js+%7C+React+%7C+Next.js;MERN+%7C+Flutter+%7C+Spring+Boot+%7C+Odoo;I+ship+faster+with+AI+agents+%E2%80%94+Claude+Code+%7C+Cursor+%7C+Copilot;Networks%2C+Systems+%26+Security+%E2%80%94+DevSecOps+in+progress;Gold+Medal+Nuit+de+l%27Info+%7C+2nd+Place+Gouvathon+2026" alt="Typing SVG"/>
 
@@ -16,7 +18,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open_To-Full--Time_Remote-2ea44f?style=for-the-badge" alt="open to work"/>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:oumamishagh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge" alt="Email"/></a>
 &nbsp;
@@ -229,8 +231,6 @@ Sales, accounting and HR modules: workflow adaptation and customization.
 >
 > **"Every bug solved is a lesson. Every project shipped is a victory."**
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,50:6b2d5e,100:2d1b3d&height=130&section=footer&text=Thanks+for+visiting!&fontSize=26&fontColor=f8bbd0&fontAlignY=65&animation=twinkling" alt="footer"/>
 
 </div>
