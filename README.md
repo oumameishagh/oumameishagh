@@ -201,18 +201,6 @@ Sales, accounting and HR modules: workflow adaptation and customization.
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oumameishagh&show_icons=true&theme=radical&hide_border=true&bg_color=0:2d1b3d&title_color=e91e8c&icon_color=f8bbd0&text_color=ffffff" alt="GitHub stats"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oumameishagh&layout=compact&theme=radical&hide_border=true&bg_color=0:2d1b3d&title_color=e91e8c&text_color=ffffff" alt="Top languages"/>
-
-</div>
-
----
-
 ## Let's work together
 
 <div align="center">
